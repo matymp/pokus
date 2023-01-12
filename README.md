@@ -2,6 +2,6 @@
 1. repositar
 
 ## seznam
--pvni
--druhy
+--pvni
+--druhy
 
